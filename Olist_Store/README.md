@@ -12,7 +12,7 @@ In ultimo, la quarta pagina (MonthDetail) approfondisce i dati sugli ordini rica
 
 EN - This project was developed using the public (and anonymized) dataset of the Brazilian e-commerce site **Olist Store**.
 
-The goal was to analyze, according to the metrics required by the assignment, the sales orders from 2016 to 2018 and possibly extract valuable insights.
+The goal was to analyze the sales orders from 2016 to 2018 and possibly extract valuable insights.
 
 
 
